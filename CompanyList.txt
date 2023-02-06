@@ -1,0 +1,4 @@
+NAZWA_FIRMY;ENTERPRISE;<{INVOICE_INCOMES},{},...>;<{INVOICE_EXPENSES},{},...>
+FirmaX;0;<{faktura1,25000.50,18}>;<{faktura2,250,18},{faktura3,250,18}>
+FirmaY;1;<{faktura1,3900,18}>;<{faktura2,250,18},{faktura3,1000,18}>
+FirmaZ;2;<{faktura1,10000,18},{faktura2,2300,18}>;<>

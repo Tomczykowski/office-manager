@@ -1,0 +1,4 @@
+TAX_TYPE;TAX_NAME;VECTOR_PAYER_P;VECTOR_PAYER_C;PER_VALUE;THRESHOLDS;VALUE
+linear;tax1;<0,1>;<0,1,2>;0.10
+progressive;tax2;<0>;<0,1>;<{0.1,2500},{0.3,3900}>
+const;tax3;<0,1,2>;<0>;2500

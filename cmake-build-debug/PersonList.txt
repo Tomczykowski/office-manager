@@ -1,0 +1,13 @@
+ID;IMIE;NAZWISKO;WIEK;ZAROBKI;EMPLOYMENT
+1;Alan;Makłowicz;18;2500;0
+2;Jakub;Płyka;24;2300;0
+3;Seweryn;Mak;30;4000;1
+4;Aleksandra;Ksyw;21;5000;2
+5;Hubert;Bud;19;2300;0
+6;Kacper;Kibi;53;10000;1
+7;Zuzanna;Ksaw;60;3500;2
+8;Piotr;Kuz;28;2900;0
+9;Robert;Trak;34;9400;0
+10;Tomasz;Kasp;54;4500;1
+11;Jan;Nowak;23;2500.0;0
+
